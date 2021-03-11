@@ -1,4 +1,4 @@
 - Stack: HTML5, SASS
 - Fully responsive layout was made by Css Grid and Flexbox (mobiles, tablets, laptops)
-- Design of the landing you can find [here]()
+- Design of the landing you can find [here](https://www.figma.com/file/zIi6yfSpSIV4dnTzwaXSjt/Bakerlab?node-id=0%3A1)
 - Click the link to see [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
